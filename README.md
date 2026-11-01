@@ -32,11 +32,6 @@ I build practical web applications, scalable APIs, and digital products that sol
 
 I also work on healthcare, HRMS, and order-management applications. Some professional projects are not publicly available, so I only share details that are approved for public viewing.
 
-## GitHub activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-aslam&show_icons=true&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-aslam&layout=compact&hide_border=true)
-
 ## Find me online
 
 - 🌐 [Portfolio](https://aman-aslam.github.io/portfolio/)
