@@ -7,7 +7,7 @@ I build practical web applications, scalable APIs, and digital products that sol
 - 💻 Full-stack development, backend engineering, and API design
 - 🚀 Building and improving production-style web applications and SaaS products
 - 🤖 Exploring AI integrations, automation, and intelligent workflows
-- 🤝 Open to freelance projects and full-time opportunities
+- 🤝 Open to full-time software development opportunities
 
 ## Tech I work with
 
@@ -37,7 +37,7 @@ I also work on healthcare, HRMS, and order-management applications. Some profess
 - 🌐 [Portfolio](https://aman-aslam.github.io/portfolio/)
 - 💼 [GitHub](https://github.com/aman-aslam)
 
-**Available for freelance collaborations and full-time software development opportunities.**
+**Open to full-time software development opportunities.**
 
 ---
 
